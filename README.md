@@ -2,6 +2,9 @@
 
 📅 **Data de Lançamento:** 13/12/2024
 
+**Login:** yran@dev.com
+**senha:** adm123
+
 ## 📌 **Novidades e Melhorias**
 
 - 📊 **Dashboard reformulado:** Nova interface com melhorias de usabilidade e dados mais acessíveis.
