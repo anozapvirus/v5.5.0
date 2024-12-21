@@ -2,9 +2,10 @@
 
 📅 **Data de Lançamento:** 13/12/2024
 
-**Login:** yran@dev.com
+## **Credenciais de Login **
 
-**senha:** adm123
+- **Login:** yran@dev.com  
+- **Senha:** adm123  
 
 ## 📌 **Novidades e Melhorias**
 
